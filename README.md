@@ -24,3 +24,9 @@ The project is to predict student admissions to graduate school at UCLA based on
 -   Class rank (1-4)
 
 ![Gradient Descent](assets/student-adminssions.png)
+
+## [Sentiment Classification](sentiment-classification/sentiment-classification-solution.ipynb "Sentiment Classification")
+
+The project is about building a network to predict sentiment (positive or negative) in movie reviews.
+
+![Gradient Descent](assets/sentiment-classification.png)
