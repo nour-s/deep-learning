@@ -16,6 +16,12 @@ Identefying objects in images. The classification list of objects has 1000 items
 
 ![Image Classification](/assets/image_classification.png)
 
+## [Classifying flowers](/flower-classification/Transfer_Learning_Solution.ipynb "Classifying flowers")
+Identifying the type of flowers using Transfer Learning technique using VGG-16 trained network.
+
+
+![Image Classification](/assets/classifing-flowers.png)
+
 ## [Visualizing Convolutional Networks](convolutional-network-visualization/conv_visualization.ipynb "Visualizing Convolutional Networks")
 It is important when training a Convolutional Network to visualize what the newtork see of your data. It helps you see with the computer eyes, for example in the picture, you can see how the network identify the edges of the car in different way for each filter.
 
