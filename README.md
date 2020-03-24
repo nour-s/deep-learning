@@ -21,15 +21,20 @@ Identifying the type of flowers using Transfer Learning technique using VGG-16 t
 
 ![Image Classification](/assets/classifing-flowers.png)
 
-## [Visualizing Convolutional Networks](convolutional-network-visualization/conv_visualization.ipynb "Visualizing Convolutional Networks")
-It is important when training a Convolutional Network to visualize what the newtork see of your data. It helps you see with the computer eyes, for example in the picture, you can see how the network identify the edges of the car in different way for each filter.
-
-![Visualizing Convolutional Networks](assets/visualizing-convolutional-network.png)
-
 ## [Style Transfer](/style-transfer/Style_Transfer_Solution.ipynb "Style Transfer")
 One of the most interesting projects. I trained a neural network to transfer a style from an image to another.
 
 ![Style Transfer](assets/style-transfer.png)
+
+## [Detecting Dogs Breed](/dog-breed/dog_app.ipynb "Detecting Dogs Breed")
+Training a network to detect the breed of a dog in the image. The network can identify 133 breeds. Additionally, if you pass a human image, the network tries to find the closest dog breed that resemble him/her.
+
+![Detecting Dogs Breed](assets/dog-breed.jpg)
+
+## [Visualizing Convolutional Networks](convolutional-network-visualization/conv_visualization.ipynb "Visualizing Convolutional Networks")
+It is important when training a Convolutional Network to visualize what the newtork see of your data. It helps you see with the computer eyes, for example in the picture, you can see how the network identify the edges of the car in different way for each filter.
+
+![Visualizing Convolutional Networks](assets/visualizing-convolutional-network.png)
 
 ## [Sentiment Classification](sentiment-classification/sentiment-classification-solution.ipynb "Sentiment Classification")
 
