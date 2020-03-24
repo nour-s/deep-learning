@@ -29,4 +29,13 @@ The project is to predict student admissions to graduate school at UCLA based on
 
 The project is about building a network to predict sentiment (positive or negative) in movie reviews.
 
-![Gradient Descent](assets/sentiment-classification.png)
+![Sentiment Classification](assets/sentiment-classification.png)
+
+## [Bike Rental Ridership Prediction](bike-sharing-rental-ridership/bike-sharing-rental-ridership.ipynb "Bike Rental")
+
+The project is about building a network neural network and use it to predict daily bike rental ridership.
+Based on data collected over a passed year.
+
+The trained network could predict the future demand on the bike riding rental with accuracy up to **80%**
+
+![Sentiment Classification](assets/bike-rental-prediction.png)
