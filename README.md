@@ -1,7 +1,7 @@
 # Deep Learning
 
-I graduated from Deep Learning Udacity Nanodegree and I wanted to share my projects that I have done during the study.
-During which I was able to train neural networks to do complicated tasks like recognizing handwritten digits, classifying dogs breed, transfer style from image to image, face recognition ..etc.
+I graduated from Deep Learning Udacity Nanodegree and I wanted to share my projects that I have done during the study. 
+During those projects, I was able to train neural networks to do complicated tasks such as face recognition, handwritten digits recognition, classifying dogs breed, transfer style from image to image,  ..etc.
 
 Here you will see a list of of all my projects done during.
 
@@ -11,6 +11,10 @@ One of the fun projects where I trained a neural network to recognize handwritte
 
 ![Handwritten digits recognition](/assets/hand-written-recognition.png)
 
+## [Classifying Objects](image-classification/cifar10_cnn_exercise.ipynb "Classifying Objects")
+Identefying objects in images. The classification list of objects has 1000 items.
+
+![Image Classification](/assets/image_classification.png)
 
 ## [Visualizing Convolutional Networks](convolutional-network-visualization/conv_visualization.ipynb "Visualizing Convolutional Networks")
 It is important when training a Convolutional Network to visualize what the newtork see of your data. It helps you see with the computer eyes, for example in the picture, you can see how the network identify the edges of the car in different way for each filter.
