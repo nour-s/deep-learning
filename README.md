@@ -31,6 +31,13 @@ Training a network to detect the breed of a dog in the image. The network can id
 
 ![Detecting Dogs Breed](assets/dog-breed.jpg)
 
+## [TV Script Generation](/tv-script-generation/dlnd_tv_script_generation.ipynb "TV Script Generation")
+Another challenging but fun project. Using Recurrent Neural Network, I managed to train a network that read **Seinfeld** TV show script and generated a new script from scratch using a seed word.
+The generated script is not perfect, because it takes a lot of efforts and time beyond the scope of the course.
+However, the script was good enough to be human friendly.
+
+![TV Script Generation](assets/tv-script-generation.png)
+
 ## [Visualizing Convolutional Networks](convolutional-network-visualization/conv_visualization.ipynb "Visualizing Convolutional Networks")
 It is important when training a Convolutional Network to visualize what the newtork see of your data. It helps you see with the computer eyes, for example in the picture, you can see how the network identify the edges of the car in different way for each filter.
 
