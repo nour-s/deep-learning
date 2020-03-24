@@ -19,7 +19,6 @@ Identefying objects in images. The classification list of objects has 1000 items
 ## [Classifying flowers](/flower-classification/Transfer_Learning_Solution.ipynb "Classifying flowers")
 Identifying the type of flowers using Transfer Learning technique using VGG-16 trained network.
 
-
 ![Image Classification](/assets/classifing-flowers.png)
 
 ## [Visualizing Convolutional Networks](convolutional-network-visualization/conv_visualization.ipynb "Visualizing Convolutional Networks")
@@ -27,13 +26,16 @@ It is important when training a Convolutional Network to visualize what the newt
 
 ![Visualizing Convolutional Networks](assets/visualizing-convolutional-network.png)
 
+## [Style Transfer](/style-transfer/Style_Transfer_Solution.ipynb "Style Transfer")
+One of the most interesting projects. I trained a neural network to transfer a style from an image to another.
+
+![Style Transfer](assets/style-transfer.png)
 
 ## [Sentiment Classification](sentiment-classification/sentiment-classification-solution.ipynb "Sentiment Classification")
 
 The project is about building a network to predict sentiment (positive or negative) in movie reviews.
 
 ![Sentiment Classification](assets/sentiment-classification.png)
-
 
 ## [Bike Rental Ridership Prediction](bike-sharing-rental-ridership/bike-sharing-rental-ridership.ipynb "Bike Rental")
 
