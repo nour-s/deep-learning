@@ -5,6 +5,12 @@ During those projects, I was able to train neural networks to do complicated tas
 
 Here you will see a list of of all my projects done during.
 
+## [Face Generation](face-generation/dlnd_face_generation.ipynb "Face Generation")
+The faces in the image below (believe or not) are completely made up. It is the result of my project where the network was trained using a group of celebrities images. After training, it could generate faces one its own.
+Of course the images are low resolution to save time and GPU power.
+
+![Face Generation](/assets/face-generation.png)
+
 ## [Handwritten Digits Recognition](handwritten-digits-recognition/mnist_mlp_solution_with_validation.ipynb "Handwritten Digits Recognition")
 
 One of the fun projects where I trained a neural network to recognize handwritten digits with high accuracy up to **97%**
