@@ -31,6 +31,11 @@ Training a network to detect the breed of a dog in the image. The network can id
 
 ![Detecting Dogs Breed](assets/dog-breed.jpg)
 
+## [Image to Image translation](/image-to-image-translation/CycleGAN_Solution.ipynb)
+Very interesting project where the network CycleGAN can translate an image to another image. For instance, a horse to zipra, or summer to winter.
+
+![Horse to Zipra](/assets/horse2zebra.jpg)
+
 ## [TV Script Generation](/tv-script-generation/dlnd_tv_script_generation.ipynb "TV Script Generation")
 Another challenging but fun project. Using Recurrent Neural Network, I managed to train a network that read **Seinfeld** TV show script and generated a new script from scratch using a seed word.
 The generated script is not perfect, because it takes a lot of efforts and time beyond the scope of the course.
