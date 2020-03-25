@@ -54,6 +54,13 @@ It is important when training a Convolutional Network to visualize what the newt
 
 ![Visualizing Convolutional Networks](assets/visualizing-convolutional-network.png)
 
+## [Deploying and Training Networks with AWS SageMaker](sagemaker-deployment/SageMaker-project.ipynb)
+It is time now to put the trained model in production. One of the great tools that help train, deploy and update a model is **AWS SageMaker**.
+In this project, I deployed the sentiment analsys project to AWS, created an API gateway, Lambda function and a SageMaker endpoint. In the video below you can see the model in action.
+The HTML web page is making a call to the API deployed to get the sentiment of the randomly picked movie review (from IMDB website).
+
+[![Sage Maker](/assets/sagemaker.png)](https://nour-s.github.io/deep-learning/assets/sentiment_analsys.mp4)
+
 ## [Sentiment Classification](sentiment-classification/sentiment-classification-solution.ipynb "Sentiment Classification")
 
 The project is about building a network to predict sentiment (positive or negative) in movie reviews.
