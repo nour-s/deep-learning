@@ -1,12 +1,12 @@
 # Deep Learning
 
-I graduated from Deep Learning Udacity Nanodegree and I wanted to share my projects that I have done during the study. 
+I graduated from **Deep Learning Udacity Nanodegree** and I wanted to share my projects that I have done during the study. 
 During those projects, I was able to train neural networks to do complicated tasks such as face recognition, handwritten digits recognition, classifying dogs breed, transfer style from image to image,  ..etc.
 
 Here you will see a list of of all my projects done during.
 
 ## [Face Generation](face-generation/dlnd_face_generation.ipynb "Face Generation")
-The faces in the image below (believe or not) are completely made up. It is the result of my project where the network was trained using a group of celebrities images. After training, it could generate faces one its own.
+The faces in the image below (believe it or not) are completely made up. It is the result of my project where the network was trained using a group of celebrities images. After training, it could generate faces one its own.
 Of course the images are low resolution to save time and GPU power.
 
 ![Face Generation](/assets/face-generation.png)
@@ -33,12 +33,12 @@ One of the most interesting projects. I trained a neural network to transfer a s
 ![Style Transfer](assets/style-transfer.png)
 
 ## [Detecting Dogs Breed](/dog-breed/dog_app.ipynb "Detecting Dogs Breed")
-Training a network to detect the breed of a dog in the image. The network can identify 133 breeds. Additionally, if you pass a human image, the network tries to find the closest dog breed that resemble him/her.
+Training a network to detect the breed of a dog in any image. The network can identify 133 breeds. Additionally, if you pass a human image, the network tries to find the closest dog breed that resemble him/her.
 
 ![Detecting Dogs Breed](assets/dog-breed.jpg)
 
 ## [Image to Image translation](/image-to-image-translation/CycleGAN_Solution.ipynb)
-Very interesting project where the network CycleGAN can translate an image to another image. For instance, a horse to zipra, or summer to winter.
+Very interesting project where the network CycleGAN can translate an image to another image. For instance, a horse to zebra , or summer to winter.
 
 ![Horse to Zipra](/assets/horse2zebra.jpg)
 
